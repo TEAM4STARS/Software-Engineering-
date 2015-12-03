@@ -1,0 +1,39 @@
+﻿<Window x:Class="Patient_Monitoring_System.management"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Patient_Monitoring_System"
+        mc:Ignorable="d"
+        Title="management" Height="723.857" Width="534.586" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:DatabaseDataSet x:Key="databaseDataSet"/>
+        <CollectionViewSource x:Key="medical_StaffViewSource" Source="{Binding Medical_Staff, Source={StaticResource databaseDataSet}}"/>
+        <CollectionViewSource x:Key="alarmViewSource" Source="{Binding Alarm, Source={StaticResource databaseDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource medical_StaffViewSource}" Margin="0,0,0,11">
+        <DataGrid x:Name="medical_StaffDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="88,408,112,125" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="staff_IDColumn" Binding="{Binding Staff_ID}" Header="Staff ID" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="full_NameColumn" Binding="{Binding Full_Name}" Header="Full Name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="email_or_NumberColumn" Binding="{Binding Email_or_Number}" Header="Email or Number" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="time_InColumn" Binding="{Binding Time_In}" Header="Time In" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="time_OutColumn" Binding="{Binding Time_Out}" Header="Time Out" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="alarmDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource alarmViewSource}}" Margin="111,99,112,430" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="nHS_IDColumn" Binding="{Binding NHS_ID}" Header="NHS ID" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="alarm_TypeColumn" Binding="{Binding Alarm_Type}" Header="Alarm Type" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="generated_TimeColumn" Binding="{Binding Generated_Time}" Header="Generated Time" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="rectified_TimeColumn" Binding="{Binding Rectified_Time}" Header="Rectified Time" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btn_alarm_search" Content="SEARCH" HorizontalAlignment="Left" Margin="84,44,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="txtAlarmSearch" HorizontalAlignment="Left" Height="23" Margin="183,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+        <TextBox x:Name="txtStaffSearch" HorizontalAlignment="Left" Height="23" Margin="170,364,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245"/>
+        <Button x:Name="btn_staff_search" Content="SEARCH" HorizontalAlignment="Left" Margin="84,364,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.202,0.415" Click="btn_staff_search_Click"/>
+        <Button x:Name="menu" Content="MENU" HorizontalAlignment="Left" Margin="372,632,0,0" VerticalAlignment="Top" Width="75" Click="menu_Click"/>
+
+    </Grid>
+</Window>

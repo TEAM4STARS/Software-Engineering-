@@ -1,0 +1,23 @@
+c:\users\walter\documents\visual studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Patient Monitoring System.exe.config
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Patient Monitoring System.exe
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Patient Monitoring System.pdb
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\medicalStaff.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\App.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System_MarkupCompile.cache
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System_MarkupCompile.lref
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\medicalStaff.baml
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System.g.resources
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient_Monitoring_System.Properties.Resources.resources
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System.exe
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System.pdb
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Database.accdb
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\Patient Monitoring System_Content.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\management.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\management.baml
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Properties\Settings.settings
