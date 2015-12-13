@@ -1,0 +1,17 @@
+﻿<Window x:Name="MainWindowInterface1" x:Class="PatientMonitor.MainWindowInterface"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+       
+        mc:Ignorable="d"
+        Title="MainWindow" Height="637.228" Width="1107.065">
+    <Grid>
+        <Button x:Name="btn_medical_staff" Content="MEDICAL STAFF" HorizontalAlignment="Left" Margin="378,218,0,0" VerticalAlignment="Top" Width="142" Height="70" Click="btn_medical_staff_Click"/>
+        <Button x:Name="btn_management" Content="MANAGEMENT" HorizontalAlignment="Left" Margin="588,218,0,0" VerticalAlignment="Top" Width="141" Height="70" Click="btn_management_Click"/>
+
+        <Button x:Name="btn_patient_records" Content="PATIENT RECORDS" HorizontalAlignment="Left" Margin="588,324,0,0" VerticalAlignment="Top" Width="141" Height="70"/>
+        <Button x:Name="btn_Bed_Monitoring" Content="BED MONITORING" HorizontalAlignment="Left" Margin="378,324,0,0" VerticalAlignment="Top" Width="141" Height="70" Click="btn_Bed_Monitoring_Click"/>
+
+    </Grid>
+</Window>

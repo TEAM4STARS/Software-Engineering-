@@ -21,3 +21,6 @@ C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\
 C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\obj\Debug\management.baml
 C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Properties\Settings.Designer.cs
 C:\Users\walter\Documents\Visual Studio 2015\Projects\Patient Monitoring System\Patient Monitoring System\bin\Debug\Properties\Settings.settings
+C:\Users\walter\Documents\GitHub\Software-Engineering-\MedicalStaff_Management\Patient Monitoring System\bin\Debug\Patient Monitoring System.exe.config
+C:\Users\walter\Documents\GitHub\Software-Engineering-\MedicalStaff_Management\Patient Monitoring System\obj\Debug\Patient Monitoring System.exe
+C:\Users\walter\Documents\GitHub\Software-Engineering-\MedicalStaff_Management\Patient Monitoring System\obj\Debug\Patient Monitoring System.pdb
