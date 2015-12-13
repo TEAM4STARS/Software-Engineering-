@@ -1,0 +1,102 @@
+﻿<Window x:Class="PatientMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="899.204" Width="1593.674" xmlns:my="clr-namespace:PatientMonitor" Loaded="Window_Loaded">
+    <Window.Resources>
+        <my:DatabaseDataSet x:Key="databaseDataSet"/>
+        <CollectionViewSource x:Key="patientViewSource" Source="{Binding Patient, Source={StaticResource databaseDataSet}}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+        <Grid DataContext="{StaticResource patientViewSource}" Margin="160,-62,10,62" Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="211*"/>
+                <RowDefinition Height="658*"/>
+            </Grid.RowDefinitions>
+            <Label x:Name="HeartRateLabel" Content="HEART RATE" HorizontalAlignment="Left" Margin="-6,144,0,0" VerticalAlignment="Top" Width="152" Height="30" FontWeight="Bold" FontSize="18.667"/>
+            <Label x:Name="DiastolicPressureLabel" Content="DIASTOLIC PRESSURE" HorizontalAlignment="Left" Margin="683,144,0,0" VerticalAlignment="Top" Width="212" Height="30" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="SystolicPresureLabel" Content="SYSTOLIC PRESSURE" HorizontalAlignment="Left" Margin="422,144,0,0" VerticalAlignment="Top" Width="196" Height="30" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="BreathingRatelabel" Content="BREATHING RATE" HorizontalAlignment="Left" Margin="192,144,0,0" VerticalAlignment="Top" Width="174" Height="30" FontSize="18.667" FontWeight="Bold"/>
+            <Label x:Name="TempLabel" Content="TEMPRETURE" HorizontalAlignment="Left" Margin="947,144,0,0" VerticalAlignment="Top" Width="152" Height="30" FontSize="18.667" FontWeight="Bold"/>
+
+            <Label Content="0" Height="37" HorizontalAlignment="Left" Margin="22,198,0,0" x:Name="pulseRate1" VerticalAlignment="Top" Width="54" FontSize="13.333" Foreground="#FF0000C5" RenderTransformOrigin="0.898,0.405" Grid.RowSpan="2" />
+            <Label Content="0" Height="37" HorizontalAlignment="Left" Margin="264,198,0,0" x:Name="breathingRate1" VerticalAlignment="Top" Width="24" FontSize="13.333" Foreground="#FF0000C5" RenderTransformOrigin="-0.224,0.269" Grid.RowSpan="2" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="501,203,0,0" x:Name="systolic1" VerticalAlignment="Top" Width="46" Foreground="#FF0000C5" FontSize="13.333" Grid.RowSpan="2" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="751,203,0,0" x:Name="diastolic1" VerticalAlignment="Top" Width="47" FontSize="13.333" Foreground="#FF0000C5" Grid.RowSpan="2" />
+            <Label Content="0" Height="45" HorizontalAlignment="Left" Margin="983,203,0,0" x:Name="temperature1" VerticalAlignment="Top" Width="45" FontSize="13.333" Foreground="#FF0000C5" Grid.RowSpan="2" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,28.5,0,0" x:Name="pulseRate2" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,22.5,0,0" x:Name="breathingRate2" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,28.5,0,0" x:Name="systolic2" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="853,38.5,0,0" x:Name="diastolic2" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,28.5,0,0" x:Name="temperature2" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,73.5,0,0" x:Name="pulseRate3" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,67.5,0,0" x:Name="breathingRate3" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,73.5,0,0" x:Name="systolic3" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="853,83.5,0,0" x:Name="diastolic3" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,73.5,0,0" x:Name="temperature3" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,119.5,0,0" x:Name="pulseRate4" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,113.5,0,0" x:Name="breathingRate4" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,119.5,0,0" x:Name="systolic4" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="853,128.5,0,0" x:Name="diastolic4" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,119.5,0,0" x:Name="temperature4" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,170.5,0,0" x:Name="pulseRate5" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,164.5,0,0" x:Name="breathingRate5" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,170.5,0,0" x:Name="systolic5" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="853,180.5,0,0" x:Name="diastolic5" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,170.5,0,0" x:Name="temperature5" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,219.5,0,0" x:Name="pulseRate6" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,213.5,0,0" x:Name="breathingRate6" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,219.5,0,0" x:Name="systolic6" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="853,229.5,0,0" x:Name="diastolic6" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,219.5,0,0" x:Name="temperature6" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="64,265.5,0,0" x:Name="pulseRate7" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="346,259.5,0,0" x:Name="breathingRate7" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="614,265.5,0,0" x:Name="systolic7" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="853,275.5,0,0" x:Name="diastolic7" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="52" HorizontalAlignment="Left" Margin="1112,265.5,0,0" x:Name="temperature7" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="64,311.5,0,0" x:Name="pulseRate8" VerticalAlignment="Top" Width="38" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="346,305.5,0,0" x:Name="breathingRate8" VerticalAlignment="Top" Width="129" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="614,311.5,0,0" x:Name="systolic8" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="1112,311.5,0,0" x:Name="temperature8" VerticalAlignment="Top" Width="128" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <Label Content="0" Height="51" HorizontalAlignment="Left" Margin="853,321.5,0,0" x:Name="diastolic8" VerticalAlignment="Top" Width="130" FontSize="28" Foreground="#FF0000C5" Grid.Row="1" />
+            <CheckBox Content="Mute" Height="18" HorizontalAlignment="Left" Margin="1130,3.5,0,0" x:Name="AlarmMute" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,36.5,0,0" x:Name="AlarmMute2" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,80.5,0,0" x:Name="AlarmMute3" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,128.5,0,0" x:Name="AlarmMute4" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,172.5,0,0" x:Name="AlarmMute5" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,223.5,0,0" x:Name="AlarmMute6" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,269.5,0,0" x:Name="AlarmMute7" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <CheckBox Content="Mute Alarm" Height="18" HorizontalAlignment="Left" Margin="1286,315.5,0,0" x:Name="AlarmMute8" VerticalAlignment="Top" Width="96" Grid.Row="1" />
+            <Label x:Name="labelBed1" Content="1" HorizontalAlignment="Left" Margin="-134,175,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.RowSpan="2"/>
+            <Label x:Name="labelBed2" Content="2" HorizontalAlignment="Left" Margin="-134,15.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed3" Content="3" HorizontalAlignment="Left" Margin="-134,59.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed4" Content="4" HorizontalAlignment="Left" Margin="-134,107.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed5" Content="5" HorizontalAlignment="Left" Margin="-134,153.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed6" Content="6" HorizontalAlignment="Left" Margin="-134,202.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed7" Content="7" HorizontalAlignment="Left" Margin="-134,248.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="labelBed8" Content="8" HorizontalAlignment="Left" Margin="-134,294.5,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Grid.Row="1"/>
+            <Label x:Name="BedLabel" Content="BED" HorizontalAlignment="Left" Margin="-134,140,0,0" VerticalAlignment="Top" Width="128" Height="41" FontWeight="Bold" FontSize="18.667"/>
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="293,199,0,0" x:Name="breathingRateUpper" VerticalAlignment="Top" Height="39" Width="99" Grid.RowSpan="2" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="397,200,0,0" x:Name="systolicLower" VerticalAlignment="Top" Width="99" Grid.RowSpan="2" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="544,200,0,0" x:Name="systolicUpper" VerticalAlignment="Top" Width="99" Grid.RowSpan="2" Height="40" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="648,200,0,0" x:Name="diastolicLower" VerticalAlignment="Top" Height="40" Width="98" Grid.RowSpan="2" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="781,201,0,0" x:Name="diastolicUpper" VerticalAlignment="Top" Width="99" Grid.RowSpan="2" Height="39" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="885,202,0,0" x:Name="temperatureLower" VerticalAlignment="Top" Width="98" Grid.RowSpan="2" Height="40" />
+            <my:NumericUpDown HorizontalAlignment="Left" Margin="1014,200,0,0" x:Name="temperatureUpper" VerticalAlignment="Top" Width="98" Grid.RowSpan="2" />
+
+        </Grid>
+        <my:NumericUpDown HorizontalAlignment="Left" Margin="78,135,0,0" x:Name="heartRateLower" VerticalAlignment="Top" Width="110" Height="42" />
+        <my:NumericUpDown HorizontalAlignment="Left" Margin="217,138,0,0" x:Name="heartRateUpper" VerticalAlignment="Top" Height="40" Width="98" />
+        <my:NumericUpDown HorizontalAlignment="Left" Margin="320,138,0,0" x:Name="breathingRateLower" VerticalAlignment="Top" Width="100" />
+    </Grid>
+</Window>

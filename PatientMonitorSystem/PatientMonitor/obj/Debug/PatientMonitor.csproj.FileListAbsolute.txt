@@ -1,0 +1,231 @@
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.exe.config
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Database.accdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\nunit.framework.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\TAlex.WPF.Controls.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\nunit.framework.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\TAlex.WPF.Controls.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\BedsideMonitoring.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\CentralMonitroingSystem.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\UpDown.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\BedsideMonitoring.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\CentralMonitroingSystem.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\Employee login.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindowInterface.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\monitoringandalarmdetails.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\UpDown.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\App.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_Content.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.lref
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\Employee login.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindowInterface.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\monitoringandalarmdetails.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.g.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.Properties.Resources.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.exe.config
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Database.accdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\nunit.framework.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\TAlex.WPF.Controls.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\nunit.framework.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\TAlex.WPF.Controls.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\BedsideMonitoring.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\CentralMonitroingSystem.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\UpDown.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\BedsideMonitoring.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\CentralMonitroingSystem.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\Employee login.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindowInterface.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\monitoringandalarmdetails.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\UpDown.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\App.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_Content.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.lref
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\Employee login.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\MainWindowInterface.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\monitoringandalarmdetails.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.g.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.Properties.Resources.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\EMAA-Tech V1.2 - Copy\PatientMonitor\obj\Debug\PatientMonitor.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\PatientMonitor.exe.config
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Database.accdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\nunit.framework.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\TAlex.WPF.Controls.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\nunit.framework.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\TAlex.WPF.Controls.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\UpDown.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\MainWindowInterface.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\monitoringandalarmdetails.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\UpDown.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\App.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor_Content.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.lref
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\MainWindowInterface.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\monitoringandalarmdetails.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.g.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.Properties.Resources.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\OTHER\software assignment\patient\PatientMonitor\obj\Debug\PatientMonitor.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.exe.config
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Database.accdb
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\nunit.framework.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\TAlex.WPF.Controls.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\nunit.framework.xml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\TAlex.WPF.Controls.xml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\UpDown.baml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindowInterface.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\monitoringandalarmdetails.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\UpDown.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\App.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_Content.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.cache
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.lref
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindowInterface.baml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\monitoringandalarmdetails.baml
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.g.resources
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.Properties.Resources.resources
+C:\Users\walter\Documents\GitHub\Software-Engineering-\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.exe.config
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Database.accdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.exe
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\PatientMonitor.pdb
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\nunit.framework.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\TAlex.WPF.Controls.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\nunit.framework.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\TAlex.WPF.Controls.xml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.csprojResolveAssemblyReference.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindow.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\UpDown.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindowInterface.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\monitoringandalarmdetails.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\UpDown.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\App.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_Content.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor_MarkupCompile.lref
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\MainWindowInterface.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\monitoringandalarmdetails.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.g.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.Properties.Resources.resources
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\PatientMonitor.csproj.GenerateResource.Cache
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\medicalStaff.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\management.g.cs
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\management.baml
+C:\Users\walter\Documents\uni\1ST SIM\SE\PatientMonitorSystem\PatientMonitor\obj\Debug\medicalStaff.baml
